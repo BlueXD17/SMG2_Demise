@@ -1,0 +1,13 @@
+{
+  "ModulesPath": "Modules\\",
+  "OutputPath": "Output/",
+  "Regions": [
+    "USA",
+    "PAL",
+    "JPN",
+    "KOR",
+    "TWN"
+  ],
+  "Unibuild": "Never",
+  "Tasks": []
+}
