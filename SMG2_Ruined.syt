@@ -2,11 +2,7 @@
   "ModulesPath": "Modules\\",
   "OutputPath": "Output/",
   "Regions": [
-    "USA",
-    "PAL",
-    "JPN",
-    "KOR",
-    "TWN"
+    "PAL"
   ],
   "Unibuild": "Never",
   "Tasks": []

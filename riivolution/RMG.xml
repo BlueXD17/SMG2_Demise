@@ -30,6 +30,8 @@
 
 	<file external="AudioRes/Stream/Hubworld.ast" disc="/AudioRes/Stream/SMG2_worldmap00_multi.ast" create="true" />
 
+	<file external="AudioRes/Stream/BadEgg.ast" disc="/AudioRes/Stream/SMG_galaxy01_strm.ast" create="true" />
+
 		<!-- Crash debugger -->
 		<memory offset="0x804B7D90" value="60000000" original="98040068"/> <!-- E, J, P -->
 		<memory offset="0x804B7E54" value="60000000" original="4082FFB8"/>
