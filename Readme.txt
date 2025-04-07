@@ -1,4 +1,10 @@
+22.03.2025
+
 Welp, let's see how long this goes...
+
+07.04.2025
+
+Wow, that was fast.
 
 GALAXIES:
 
@@ -10,4 +16,4 @@ Beach Bowl Galaxy - Shattered Beach Galaxy
 Freezeflame Galaxy - Climate Chaos Galaxy
 Space Junk Galaxy - Spacial Rend Galaxy
 Ghostly Galaxy - Haunty Remains Galaxy
-Observation Dome - Broken Domes, with the Garden being the last
+Observation Dome - Broken Observation
