@@ -1,0 +1,9 @@
+{
+  "ModulesPath": "Modules\\",
+  "OutputPath": "Output/",
+  "Regions": [
+    "PAL"
+  ],
+  "Unibuild": "Never",
+  "Tasks": []
+}
